@@ -1,0 +1,15 @@
+/home/xela/Desktop/Vigilant/app-thing/Vigilant_Scanner/bin/Debug/net8.0/Vigilant_Scanner
+/home/xela/Desktop/Vigilant/app-thing/Vigilant_Scanner/bin/Debug/net8.0/Vigilant_Scanner.deps.json
+/home/xela/Desktop/Vigilant/app-thing/Vigilant_Scanner/bin/Debug/net8.0/Vigilant_Scanner.runtimeconfig.json
+/home/xela/Desktop/Vigilant/app-thing/Vigilant_Scanner/bin/Debug/net8.0/Vigilant_Scanner.dll
+/home/xela/Desktop/Vigilant/app-thing/Vigilant_Scanner/bin/Debug/net8.0/Vigilant_Scanner.pdb
+/home/xela/Desktop/Vigilant/app-thing/Vigilant_Scanner/obj/Debug/net8.0/Vigilant_Scanner.GeneratedMSBuildEditorConfig.editorconfig
+/home/xela/Desktop/Vigilant/app-thing/Vigilant_Scanner/obj/Debug/net8.0/Vigilant_Scanner.AssemblyInfoInputs.cache
+/home/xela/Desktop/Vigilant/app-thing/Vigilant_Scanner/obj/Debug/net8.0/Vigilant_Scanner.AssemblyInfo.cs
+/home/xela/Desktop/Vigilant/app-thing/Vigilant_Scanner/obj/Debug/net8.0/Vigilant_Scanner.csproj.CoreCompileInputs.cache
+/home/xela/Desktop/Vigilant/app-thing/Vigilant_Scanner/obj/Debug/net8.0/Vigilant_Scanner.sourcelink.json
+/home/xela/Desktop/Vigilant/app-thing/Vigilant_Scanner/obj/Debug/net8.0/Vigilant_Scanner.dll
+/home/xela/Desktop/Vigilant/app-thing/Vigilant_Scanner/obj/Debug/net8.0/refint/Vigilant_Scanner.dll
+/home/xela/Desktop/Vigilant/app-thing/Vigilant_Scanner/obj/Debug/net8.0/Vigilant_Scanner.pdb
+/home/xela/Desktop/Vigilant/app-thing/Vigilant_Scanner/obj/Debug/net8.0/Vigilant_Scanner.genruntimeconfig.cache
+/home/xela/Desktop/Vigilant/app-thing/Vigilant_Scanner/obj/Debug/net8.0/ref/Vigilant_Scanner.dll
