@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Vigilant_Scanner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2dc0de46a85de744c1c18a2416b4da044287c298")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3aa4891ec14df1ac4e9eefb51b1263d116a0d308")]
 [assembly: System.Reflection.AssemblyProductAttribute("Vigilant_Scanner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Vigilant_Scanner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

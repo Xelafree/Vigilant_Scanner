@@ -13,3 +13,11 @@
 /home/xela/Desktop/Vigilant/app-thing/Vigilant_Scanner/obj/Debug/net8.0/Vigilant_Scanner.pdb
 /home/xela/Desktop/Vigilant/app-thing/Vigilant_Scanner/obj/Debug/net8.0/Vigilant_Scanner.genruntimeconfig.cache
 /home/xela/Desktop/Vigilant/app-thing/Vigilant_Scanner/obj/Debug/net8.0/ref/Vigilant_Scanner.dll
+/home/xela/Desktop/Vigilant/app-thing/Vigilant_Scanner/bin/Debug/net8.0/LLRP.Impinj.dll
+/home/xela/Desktop/Vigilant/app-thing/Vigilant_Scanner/bin/Debug/net8.0/LLRP.dll
+/home/xela/Desktop/Vigilant/app-thing/Vigilant_Scanner/bin/Debug/net8.0/Impinj.OctaneSdk.dll
+/home/xela/Desktop/Vigilant/app-thing/Vigilant_Scanner/bin/Debug/net8.0/Impinj.RShell.dll
+/home/xela/Desktop/Vigilant/app-thing/Vigilant_Scanner/bin/Debug/net8.0/Renci.SshNet.dll
+/home/xela/Desktop/Vigilant/app-thing/Vigilant_Scanner/bin/Debug/net8.0/SshNet.Security.Cryptography.dll
+/home/xela/Desktop/Vigilant/app-thing/Vigilant_Scanner/obj/Debug/net8.0/Vigilant_Scanner.csproj.AssemblyReference.cache
+/home/xela/Desktop/Vigilant/app-thing/Vigilant_Scanner/obj/Debug/net8.0/Vigilant_Scanner.csproj.CopyComplete
