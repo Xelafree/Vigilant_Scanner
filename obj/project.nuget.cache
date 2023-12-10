@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "gozZJryBbgqvs7Ztm8bhsRDwQRUwjHR9FDI8BxCRw2vRo5LIRitdtflqCnU1DXotJHxELnTgyPTKIrHXbW81wg==",
+  "dgSpecHash": "5MLQpNvRJf43Un8sLCpa1NEihS0+BaofAhUjGSQUiAvcJTXJvdAqR2YMCP6ZUS3Ah/ydInClXWP0SObUGTXMcQ==",
   "success": true,
   "projectFilePath": "/home/xela/Desktop/Vigilant/app-thing/Vigilant_Scanner/Vigilant_Scanner.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/xela/.nuget/packages/libltknet-sdk/11.4.0/libltknet-sdk.11.4.0.nupkg.sha512",
+    "/home/xela/.nuget/packages/octanesdk/4.3.0/octanesdk.4.3.0.nupkg.sha512",
+    "/home/xela/.nuget/packages/ssh.net/2020.0.2/ssh.net.2020.0.2.nupkg.sha512",
+    "/home/xela/.nuget/packages/sshnet.security.cryptography/1.3.0/sshnet.security.cryptography.1.3.0.nupkg.sha512"
+  ],
   "logs": []
 }
