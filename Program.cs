@@ -6,8 +6,7 @@ namespace Vigilant_Scanner;
 class Program
 {   
 
-    //need to be instantiated in its own function at some point to allow other readers
-    const string READER_HOSTNAME = "1234"; //right now this will just be our one
+    static string READER_HOSTNAME;
     //this is fine
     static ImpinjReader reader = new ImpinjReader();
 
@@ -15,27 +14,29 @@ class Program
     static void ConnectToReader() {
         try {
             Console.WriteLine("Attempting to connect to {0}", READER_HOSTNAME);
-            //max number of attempts
-            //reader.MaxConnectionAttempts = 5;
             //time until timout
             reader.ConnectTimeout = 6000;
             //connect to the reader
             reader.Connect(READER_HOSTNAME);
             Console.WriteLine("Successfully connected.");
+
+
         } catch (OctaneSdkException e) {
             Console.WriteLine("Connection Failed.");
-            throw (e);
+            throw e;
         }
     }
 
     //curently not doing anything, but this is where we'll query/save responses
     static void AskVars() {
-
+        Console.WriteLine("Please enter your readers hostname");
+        READER_HOSTNAME = Console.ReadLine(); //this still allows null or bad imputs
     }
 
     static void Main(string[] args)
     {
-        
+        Console.WriteLine("Thank you for using our program!");
+        AskVars();
         ConnectToReader();
         
     }
