@@ -6,7 +6,7 @@ namespace Vigilant_Scanner;
 class Program
 {   
 
-    static string READER_HOSTNAME;
+    static string READER_HOSTNAME = "";
     //this is fine
     static ImpinjReader reader = new ImpinjReader();
 
@@ -29,8 +29,13 @@ class Program
 
     //curently not doing anything, but this is where we'll query/save responses
     static void AskVars() {
-        Console.WriteLine("Please enter your readers hostname");
-        READER_HOSTNAME = Console.ReadLine(); //this still allows null or bad imputs
+        Console.WriteLine("Please enter your reader's hostname");
+        READER_HOSTNAME = Console.ReadLine(); //this still allows bad imputs
+        //this is a janky way of stopping no imput from going through
+        while (READER_HOSTNAME == "") {
+            Console.WriteLine("No imput recieved, try agian");
+            READER_HOSTNAME = Console.ReadLine();
+        }
     }
 
     static void Main(string[] args)
