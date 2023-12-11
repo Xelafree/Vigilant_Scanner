@@ -38,11 +38,27 @@ class Program
         }
     }
 
+    //here we'll change the default settings of the reader
+    static void SettingManage(){
+        //aquire the default settings
+        Settings settings = reader.QueryDefaultSettings();
+
+        
+
+    }
+
     static void Main(string[] args)
     {
         Console.WriteLine("Thank you for using our program!");
         AskVars();
-        ConnectToReader();
+        try {
+            ConnectToReader();
+            SettingManage();
+        } catch (OctaneSdkException e) {
+            Console.WriteLine("Octane SDK exeption: {0}", e.Message);
+        } catch (Exception e) {
+            Console.WriteLine("Exeption: {0}", e.Message);
+        }
         
     }
 }
